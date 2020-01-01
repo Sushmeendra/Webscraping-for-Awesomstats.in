@@ -1,0 +1,6 @@
+
+1. comment title
+2. comment text
+3. date time
+4. ratings
+5. Stayed time
